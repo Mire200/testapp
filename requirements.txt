@@ -2,4 +2,4 @@ uvicorn
 pydantic
 scikit-learn
 pandas
-numpy}
+numpy
